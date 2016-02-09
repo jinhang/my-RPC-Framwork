@@ -16,7 +16,7 @@ import com.alibaba.middleware.race.rpc.network.RpcServer;
 import com.alibaba.middleware.race.rpc.network.netty.nettyServer;
 
 /**
- * @author yuyang
+ * @author keehang
  *
  */
 public class RpcProviderImpl extends RpcProvider{
