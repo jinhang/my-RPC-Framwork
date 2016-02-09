@@ -4,7 +4,7 @@
 package com.alibaba.middleware.race.rpc.conf;
 
 /**
- * @author yuyang
+ * @author keehang
  *	配置文件
  */
 public class configure {
