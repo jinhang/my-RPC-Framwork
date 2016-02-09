@@ -23,7 +23,7 @@ import com.alibaba.middleware.race.rpc.model.utils;
 import com.alibaba.middleware.race.rpc.network.RpcClient;
 import com.alibaba.middleware.race.rpc.network.netty.nettyClient;
 /**
- * @author yuyang
+ * @author keehang
  *
  */
 public class RpcConsumerImpl extends RpcConsumer {
