@@ -6,7 +6,7 @@ package com.alibaba.middleware.race.rpc.model;
 import java.io.Serializable;
 
 /**
- * @author yuyang
+ * @author keehang
  *
  */
 public class RpcResponse implements Serializable {
